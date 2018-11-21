@@ -1,0 +1,2 @@
+C:\Users\Stella\source\repos\DateWeekCalculator1\weeksCalculation\obj\Debug\weeksCalculation.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\DateWeekCalculator1\weeksCalculation\obj\Debug\weeksCalculation.csproj.CoreCompileInputs.cache

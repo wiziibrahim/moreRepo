@@ -1,0 +1,20 @@
+C:\Users\Stella\source\repos\DateWeekCalculator1\DateWeekCalculator1\bin\Debug\DateWeekCalculator1.exe.config
+C:\Users\Stella\source\repos\DateWeekCalculator1\DateWeekCalculator1\bin\Debug\DateWeekCalculator1.exe
+C:\Users\Stella\source\repos\DateWeekCalculator1\DateWeekCalculator1\bin\Debug\DateWeekCalculator1.pdb
+C:\Users\Stella\source\repos\DateWeekCalculator1\DateWeekCalculator1\obj\Debug\DateWeekCalculator1.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\DateWeekCalculator1\DateWeekCalculator1\obj\Debug\DateWeekCalculator1.exe
+C:\Users\Stella\source\repos\DateWeekCalculator1\DateWeekCalculator1\obj\Debug\DateWeekCalculator1.pdb
+C:\Users\Ibrahim Acheneje\Desktop\Visual studio\C#repos\Myfiles\source\repos\DateWeekCalculator1\DateWeekCalculator1\bin\Debug\DateWeekCalculator1.exe.config
+C:\Users\Ibrahim Acheneje\Desktop\Visual studio\C#repos\Myfiles\source\repos\DateWeekCalculator1\DateWeekCalculator1\bin\Debug\DateWeekCalculator1.exe
+C:\Users\Ibrahim Acheneje\Desktop\Visual studio\C#repos\Myfiles\source\repos\DateWeekCalculator1\DateWeekCalculator1\bin\Debug\DateWeekCalculator1.pdb
+C:\Users\Ibrahim Acheneje\Desktop\Visual studio\C#repos\Myfiles\source\repos\DateWeekCalculator1\DateWeekCalculator1\obj\Debug\DateWeekCalculator1.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim Acheneje\Desktop\Visual studio\C#repos\Myfiles\source\repos\DateWeekCalculator1\DateWeekCalculator1\obj\Debug\DateWeekCalculator1.exe
+C:\Users\Ibrahim Acheneje\Desktop\Visual studio\C#repos\Myfiles\source\repos\DateWeekCalculator1\DateWeekCalculator1\obj\Debug\DateWeekCalculator1.pdb
+C:\Users\Ibrahim Acheneje\Desktop\Visual studio\C#repos\Myfiles\source\repos\DateWeekCalculator1\DateWeekCalculator1\obj\Debug\DateWeekCalculator1.csprojAssemblyReference.cache
+C:\Users\Ibrahim Acheneje\Desktop\Visual studio\C#repos\Myfiles\source\repos\DateWeekCalculator1 - Copy\DateWeekCalculator1\bin\Debug\DateWeekCalculator1.exe.config
+C:\Users\Ibrahim Acheneje\Desktop\Visual studio\C#repos\Myfiles\source\repos\DateWeekCalculator1 - Copy\DateWeekCalculator1\bin\Debug\DateWeekCalculator1.exe
+C:\Users\Ibrahim Acheneje\Desktop\Visual studio\C#repos\Myfiles\source\repos\DateWeekCalculator1 - Copy\DateWeekCalculator1\bin\Debug\DateWeekCalculator1.pdb
+C:\Users\Ibrahim Acheneje\Desktop\Visual studio\C#repos\Myfiles\source\repos\DateWeekCalculator1 - Copy\DateWeekCalculator1\obj\Debug\DateWeekCalculator1.csprojAssemblyReference.cache
+C:\Users\Ibrahim Acheneje\Desktop\Visual studio\C#repos\Myfiles\source\repos\DateWeekCalculator1 - Copy\DateWeekCalculator1\obj\Debug\DateWeekCalculator1.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim Acheneje\Desktop\Visual studio\C#repos\Myfiles\source\repos\DateWeekCalculator1 - Copy\DateWeekCalculator1\obj\Debug\DateWeekCalculator1.exe
+C:\Users\Ibrahim Acheneje\Desktop\Visual studio\C#repos\Myfiles\source\repos\DateWeekCalculator1 - Copy\DateWeekCalculator1\obj\Debug\DateWeekCalculator1.pdb
